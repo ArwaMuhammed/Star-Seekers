@@ -1,0 +1,7 @@
+Specific Name: Janssen
+Planet Radius: 1.875 x Jupiter
+Discovery Date: 2004
+Planet Type: Super Earth
+Orbital Period: 0.7 days
+Host Star:55 Cancri
+Average Temperature: 1,700°C

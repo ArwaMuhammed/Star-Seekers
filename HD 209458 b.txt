@@ -1,0 +1,6 @@
+Planet Radius: 1.39 x Jupiter
+Discovery Date: 1999
+Planet Type: Gas Giant
+Orbital Period: 3.5 days
+Host Star: HD 209458
+Average Temperature: ~1,300°C

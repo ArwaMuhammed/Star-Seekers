@@ -1,0 +1,6 @@
+Planet Radius: 0.372 x Jupiter
+Discovery Date: 2004
+Planet Type: Neptune-like
+Orbital Period: 2.6 days
+Host Star: Gliese 436
+Average Temperature: ~712°C

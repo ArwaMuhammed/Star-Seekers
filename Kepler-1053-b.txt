@@ -1,0 +1,5 @@
+Planet Radius: 0.98 x Earth
+Discovery Date: 2016
+Planet Type: Terrestrial
+Orbital Period: 2.4 days
+Host Star: Kepler-1053

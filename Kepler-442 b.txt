@@ -1,0 +1,6 @@
+Planet Radius: 1.34 x Earth
+Discovery Date: 2015
+Planet Type: Super Earth
+Orbital Period: 112.3 days
+Host Star: Kepler-442
+Average Temperature: -2°C

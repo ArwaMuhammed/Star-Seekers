@@ -1,0 +1,6 @@
+Planet Radius: 0.92 x Earth
+Discovery Date: 2017
+Planet Type: Terrestrial
+Orbital Period: 6.1 days
+Host Star: TRAPPIST-1.
+Average Temperature: ~-27°C 

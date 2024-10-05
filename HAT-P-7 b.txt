@@ -1,0 +1,6 @@
+Planet Radius: 1.51 x Jupiter
+Discovery Date: 2008
+Planet Type: Gas Giant
+Orbital Period: 2.2 days
+Host Star: HAT-P-7
+Average Temperature: ~2,300°C

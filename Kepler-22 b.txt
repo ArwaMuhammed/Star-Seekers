@@ -1,0 +1,6 @@
+Planet Radius: 2.1 x Earth
+Discovery Date: 2011
+Planet Type: Super Earth
+Orbital Period: 289.9 days
+Host Star: Kepler-22
+Average Temperature: ~22°C 
